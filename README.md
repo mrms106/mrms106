@@ -32,8 +32,6 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** wh
 
 ---
 
-
-
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Makardhwaj Surwase](https://in.linkedin.com/in/makardhwaj-surwase-0a34b827b)
@@ -43,14 +41,6 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** wh
 I’m always interested in connecting with fellow developers, sharing ideas, and collaborating on projects. Don’t hesitate to reach out!
 
 ---
-
-
-
-## 💡 Fun Side Projects
-
-- 🚀 Working on a productivity app using **React Native**.
-- 💻 Contributing to open-source projects and participating in hackathons.
-
 
   
 ---
