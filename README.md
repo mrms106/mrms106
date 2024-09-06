@@ -34,18 +34,6 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** wh
 
 
 
-## 🖥️ Projects
-
-Here are a few of my notable projects:
-
-- **SS-fixturing Website(https://github.com/mrms106/SSfixturing-website)**: A full-stack web application using React, Node.js, and Sql. Features include authentication, data visualization, and more.
-- **Vacation Rental Website(https://github.com/mrms106/rental-website)**: A full-stack web application using React, Node.js, and MOngodb. Features include authentication, data visualization, and more.
-- **Book-Store Management(https://github.com/mrms106/Book-Store-management)**: A full-stack web application using React, Node.js, and Sql. Features include authentication, data visualization, and more..
-
-Explore more of my work on my **[GitHub Repositories](https://github.com/mrms106?tab=repositories)**.
-
----
-
 ## 📫 How to Reach Me
 
 - **LinkedIn**: [Makardhwaj Surwase](https://in.linkedin.com/in/makardhwaj-surwase-0a34b827b)
