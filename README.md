@@ -69,4 +69,4 @@ I’m always interested in connecting with fellow developers, sharing ideas, and
 
 ### Thank You for Visiting My GitHub!
 
-I’m always excited to connect with other developers and work on innovative projects. If you’re interested in collaborating, feel free to [reach out](#📫-how-to-reach-me)!
+I’m always excited to connect with other developers and work on innovative projects. If you’re interested in collaborating, feel free to [reach out](https://makardhwaj.rf.gd/contactme)!
