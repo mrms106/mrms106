@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** an
 
 - **LinkedIn**: [Makardhwaj Surwase](https://in.linkedin.com/in/makardhwaj-surwase-0a34b827b)
 - **Email**: mr.ms93679@gmail.com
-- **Portfolio**: [My Portfolio Website](https://makardhwaj.rf.gd/about)
+- **Portfolio**: [My Portfolio Website](https://makardhwaj.rf.gd/)
 
 I’m always interested in connecting with fellow developers, sharing ideas, and collaborating on projects. Don’t hesitate to reach out!
 
